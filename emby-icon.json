@@ -3,16 +3,16 @@
     "description":"By origin-Saber",
     "icons":[
         {
-            "name":"Terminus",
-            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Terminus.png"
+            "name":"Terminal",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Terminal.png"
         },
         {
             "name":"Odyssey+",
             "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Odyssey+.png"
         },
         {
-            "name":"Odyssey initial",
-            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Odyssey initial.png"
+            "name":"Odysseyinitial",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Odysseyinitial.png"
         },
         {
             "name":"jms",
@@ -27,8 +27,8 @@
             "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/CharonTV.png"
         },
         {
-            "name":"Msity",
-            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Msity.png"
+            "name":"Misty",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Misty.png"
         },
         {
             "name":"HeiShan",
@@ -47,8 +47,8 @@
             "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Plusvideo.png"
         },
         {
-            "name":"Pornemby",
-            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Pornemby.png"
+            "name":"PornEmby",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/PornEmby.png"
         }
     ]
 }
