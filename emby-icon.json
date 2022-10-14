@@ -1,0 +1,54 @@
+{
+    "name":"Emby icon",
+    "description":"By origin-Saber",
+    "icons":[
+        {
+            "name":"Terminus",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Terminus.png"
+        },
+        {
+            "name":"Odyssey+",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Odyssey+.png"
+        },
+        {
+            "name":"Odyssey initial",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Odyssey initial.png"
+        },
+        {
+            "name":"jms",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/jms.png"
+        },
+        {
+            "name":"EmbyClub",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/EmbyClub.png"
+        },
+        {
+            "name":"CharonTV",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/CharonTV.png"
+        },
+        {
+            "name":"Msity",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Msity.png"
+        },
+        {
+            "name":"HeiShan",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/HeiShan.png"
+        },
+        {
+            "name":"BlueSea",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/BlueSea.png"
+        },
+        {
+            "name":"Zhongxia",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Zhongxia.png"
+        },
+        {
+            "name":"Plusvideo",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Plusvideo.png"
+        },
+        {
+            "name":"Pornemby",
+            "url":"https://raw.githubusercontent.com/origin-Saber/emby-icon/master/Pornemby.png"
+        }
+    ]
+}
